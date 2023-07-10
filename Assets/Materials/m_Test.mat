@@ -36,6 +36,10 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _DitherPattern:
+        m_Texture: {fileID: 2800000, guid: 5c2aae7d159304ec78ebcccf57070d5c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _EmissionMap:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
@@ -69,7 +73,7 @@ Material:
     - _Mode: 0
     - _OcclusionStrength: 1
     - _Parallax: 0.02
-    - _RampRange: 0.401
+    - _RampRange: 0.5
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
     - _SrcBlend: 1
@@ -78,6 +82,6 @@ Material:
     m_Colors:
     - _Color: {r: 1, g: 0.3443396, b: 0.3443396, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _MidTone: {r: 0.7830189, g: 0.28439835, b: 0.48006836, a: 1}
+    - _MidTone: {r: 0.7264151, g: 0.20901564, b: 0.4553231, a: 1}
     - _Shadow: {r: 0.6037736, g: 0.24777503, b: 0.48789045, a: 1}
   m_BuildTextureStacks: []

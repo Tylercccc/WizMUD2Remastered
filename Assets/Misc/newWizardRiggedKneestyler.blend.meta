@@ -2,7 +2,31 @@ fileFormatVersion: 2
 guid: 821e676a41bff47109ad7d08c0c68799
 ModelImporter:
   serializedVersion: 21300
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      74: 1989289236423521904
+    second: Default Take
+  - first:
+      74: 8399819300449453549
+    second: HeadSpin1
+  - first:
+      74: 6118927227700144909
+    second: NEWwizIdle
+  - first:
+      74: 1161418959601195710
+    second: SkeletonHit
+  - first:
+      74: 1224602666948330921
+    second: startled
+  - first:
+      74: 4659848816989534598
+    second: tp
+  - first:
+      74: 3954931726555372870
+    second: wizIdle
+  - first:
+      74: -477411990933702269
+    second: wizWalkerr
   externalObjects: {}
   materials:
     materialImportMode: 2
